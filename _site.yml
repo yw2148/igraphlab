@@ -1,0 +1,22 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "iGraphLab"
+  right:
+    - text: "Home"
+      href: home.html
+    - text: "Projects"
+      menu: 
+      - text: "Project 1"
+        href: project1.html
+      - text: "Project 2"
+        href: project2.html
+    - text: "Data"
+      href: data.html
+    - text: "Learning Center"
+      href: shiny_sqltable.html
+    - icon: fa-github fa-lg
+      href: https://github.com/yw2148/igraphlab
+  html_document:
+    theme: paper
+    css: style.css

@@ -1,0 +1,12 @@
+---
+title: "ML/AI lab at the Department of Biostatistics, Columbia University"
+subtitle: "dedicated to pave the data science foundation for intelligent and equitable public health"
+---
+
+# Content
+
+Input content here
+
+# About
+
+Info
